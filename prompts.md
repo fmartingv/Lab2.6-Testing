@@ -1,0 +1,1 @@
+Tengo que hacer para practicar testing una api sencilla relacionada con un animal que empieze por b(como por ejemplo burro), todo esto se verá reflejado en una base de datos. Lo mejor es usar Django y estoy en Ubuntu
