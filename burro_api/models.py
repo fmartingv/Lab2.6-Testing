@@ -5,6 +5,6 @@ class Burro(models.Model):
     edad = models.IntegerField()
     color = models.CharField(max_length=50)
     peso = models.FloatField()
-
-    def __str__(self):
+    
+    def __str__(self): 
         return self.nombre
